@@ -11,7 +11,7 @@ Build a Java app that reads though a Cloud Firestore collection and writes the d
 
 This is also a step towards establishing a workflow that will allow me to train my Machine Learning models online without using proprietary tools from database vendors.
 
-#### Notes
+### Notes
 * The program writes to a document tilted Users.csv in the app's home directory. This is because I was reading from a users collection on Firestore.
 
 
